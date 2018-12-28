@@ -1,0 +1,6 @@
+C:\Users\Санжар\source\repos\Second_Homework\Practice\bin\Debug\Practice.exe
+C:\Users\Санжар\source\repos\Second_Homework\Practice\bin\Debug\Practice.pdb
+C:\Users\Санжар\source\repos\Second_Homework\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\Санжар\source\repos\Second_Homework\Practice\obj\Debug\Practice.exe
+C:\Users\Санжар\source\repos\Second_Homework\Practice\obj\Debug\Practice.pdb
+C:\Users\Санжар\source\repos\Second_Homework\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache

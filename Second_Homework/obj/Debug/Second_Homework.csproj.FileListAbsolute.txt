@@ -1,0 +1,6 @@
+C:\Users\Санжар\source\repos\Second_Homework\Second_Homework\bin\Debug\Second_Homework.exe
+C:\Users\Санжар\source\repos\Second_Homework\Second_Homework\bin\Debug\Second_Homework.pdb
+C:\Users\Санжар\source\repos\Second_Homework\Second_Homework\obj\Debug\Second_Homework.csprojResolveAssemblyReference.cache
+C:\Users\Санжар\source\repos\Second_Homework\Second_Homework\obj\Debug\Second_Homework.csproj.CoreCompileInputs.cache
+C:\Users\Санжар\source\repos\Second_Homework\Second_Homework\obj\Debug\Second_Homework.exe
+C:\Users\Санжар\source\repos\Second_Homework\Second_Homework\obj\Debug\Second_Homework.pdb
